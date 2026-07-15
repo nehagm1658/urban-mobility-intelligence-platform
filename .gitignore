@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# IDE
+.vscode/
+
+# Logs
+logs/*.log
+logs/*.tmp
+
+# Spark
+spark-warehouse/
+
+# Python cache
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Airflow
+airflow/logs/
+airflow.db
+
+# Docker
+*.pid
+
+# Generated dashboard images (optional)
+data/dashboard/*.png
+
+# Generated parquet data (optional)
+data/bronze/
+data/silver/
+data/gold/
+
+# pgAdmin
+pgadmin/

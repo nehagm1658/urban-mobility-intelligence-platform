@@ -1,0 +1,501 @@
+traffic_id,city,zone_name,congestion_level,avg_speed_kmph,recorded_at
+1,Bengaluru,Jayanagar,HIGH,26.3,2026-06-30 18:07:52
+2,Bengaluru,Whitefield,HIGH,42.6,2026-06-16 03:35:52
+3,Bengaluru,Indiranagar,SEVERE,13.7,2026-06-19 08:12:52
+4,Mumbai,Bandra,LOW,23.6,2026-07-08 19:53:52
+5,Mumbai,Andheri,SEVERE,24.3,2026-06-14 03:38:52
+6,Mumbai,Bandra,SEVERE,36.9,2026-07-02 08:10:52
+7,Bengaluru,HSR Layout,LOW,39.6,2026-07-04 16:33:52
+8,Bengaluru,Koramangala,HIGH,26.9,2026-06-22 13:28:52
+9,Hyderabad,Gachibowli,HIGH,36.6,2026-07-01 22:40:52
+10,Bengaluru,Airport,LOW,25.6,2026-07-05 01:34:52
+11,Bengaluru,Marathahalli,SEVERE,26.1,2026-06-23 00:40:52
+12,Bengaluru,Jayanagar,MODERATE,42.3,2026-06-08 22:32:52
+13,Mumbai,Bandra,LOW,35.4,2026-07-02 21:54:52
+14,Hyderabad,Airport,MODERATE,41.9,2026-06-20 14:53:52
+15,Bengaluru,Koramangala,MODERATE,39.0,2026-07-06 03:06:52
+16,Mumbai,Bandra,HIGH,15.4,2026-06-08 20:14:52
+17,Bengaluru,Marathahalli,SEVERE,27.0,2026-06-24 08:21:52
+18,Bengaluru,Marathahalli,LOW,43.3,2026-06-09 07:51:52
+19,Bengaluru,Marathahalli,LOW,18.8,2026-06-18 22:24:52
+20,Mumbai,Airport,HIGH,21.6,2026-06-27 03:51:52
+21,Bengaluru,MG Road,SEVERE,32.4,2026-07-07 02:32:52
+22,Bengaluru,HSR Layout,MODERATE,40.1,2026-06-11 03:34:52
+23,Mumbai,Airport,HIGH,24.5,2026-06-11 09:01:52
+24,Bengaluru,HSR Layout,MODERATE,11.2,2026-07-01 14:17:52
+25,Hyderabad,Hitech City,MODERATE,40.8,2026-06-19 02:50:52
+26,Mumbai,Airport,LOW,27.4,2026-07-05 19:48:52
+27,Bengaluru,Whitefield,SEVERE,10.8,2026-06-30 10:14:52
+28,Mumbai,Airport,HIGH,8.4,2026-06-26 13:24:52
+29,Bengaluru,Electronic City,LOW,30.1,2026-06-27 02:44:52
+30,Bengaluru,Whitefield,LOW,18.5,2026-07-02 12:05:52
+31,Bengaluru,Airport,LOW,36.6,2026-06-16 00:51:52
+32,Bengaluru,HSR Layout,LOW,38.4,2026-06-26 13:35:52
+33,Bengaluru,Indiranagar,LOW,12.5,2026-06-28 19:40:52
+34,Bengaluru,Electronic City,MODERATE,15.9,2026-06-29 23:17:52
+35,Hyderabad,Gachibowli,MODERATE,18.8,2026-07-08 22:46:52
+36,Bengaluru,Electronic City,MODERATE,18.2,2026-06-11 06:23:52
+37,Mumbai,Powai,SEVERE,10.9,2026-07-03 17:49:52
+38,Bengaluru,Koramangala,HIGH,27.2,2026-06-20 19:00:52
+39,Hyderabad,Hitech City,LOW,33.7,2026-06-12 23:09:52
+40,Hyderabad,Airport,SEVERE,15.8,2026-06-15 21:13:52
+41,Bengaluru,Koramangala,LOW,19.3,2026-07-01 07:37:52
+42,Bengaluru,Electronic City,HIGH,31.8,2026-06-25 04:59:52
+43,Bengaluru,Marathahalli,LOW,21.5,2026-07-05 10:34:52
+44,Mumbai,Airport,SEVERE,27.0,2026-07-02 16:29:52
+45,Bengaluru,Koramangala,MODERATE,23.2,2026-06-15 18:31:52
+46,Bengaluru,Electronic City,MODERATE,41.8,2026-06-22 18:25:52
+47,Bengaluru,MG Road,HIGH,24.8,2026-07-02 18:01:52
+48,Bengaluru,Indiranagar,HIGH,35.9,2026-07-06 00:04:52
+49,Bengaluru,MG Road,LOW,43.0,2026-06-29 01:29:52
+50,Mumbai,Powai,HIGH,19.7,2026-07-06 17:59:52
+51,Bengaluru,Marathahalli,SEVERE,44.0,2026-06-17 17:52:52
+52,Bengaluru,Marathahalli,LOW,9.0,2026-06-16 10:16:52
+53,Hyderabad,Hitech City,LOW,17.2,2026-07-07 18:23:52
+54,Hyderabad,Hitech City,MODERATE,38.1,2026-07-05 08:58:52
+55,Hyderabad,Airport,HIGH,41.2,2026-06-27 01:52:52
+56,Mumbai,Airport,HIGH,32.2,2026-06-10 21:01:52
+57,Bengaluru,MG Road,LOW,42.4,2026-06-10 03:11:52
+58,Bengaluru,MG Road,MODERATE,12.9,2026-06-18 07:55:52
+59,Mumbai,Airport,LOW,31.7,2026-07-04 12:46:52
+60,Mumbai,Andheri,SEVERE,37.4,2026-06-28 11:25:52
+61,Bengaluru,Marathahalli,HIGH,38.3,2026-06-26 05:09:52
+62,Mumbai,Airport,LOW,40.8,2026-06-20 11:42:52
+63,Bengaluru,Jayanagar,LOW,29.8,2026-06-15 01:53:52
+64,Bengaluru,Airport,HIGH,33.4,2026-06-29 13:07:52
+65,Bengaluru,Airport,SEVERE,38.3,2026-07-05 21:24:52
+66,Bengaluru,Jayanagar,SEVERE,29.0,2026-07-02 17:07:52
+67,Bengaluru,Electronic City,LOW,34.6,2026-06-29 23:23:52
+68,Bengaluru,Jayanagar,SEVERE,39.0,2026-06-27 08:01:52
+69,Bengaluru,Jayanagar,LOW,44.1,2026-06-22 03:43:52
+70,Hyderabad,Gachibowli,SEVERE,10.6,2026-07-05 16:27:52
+71,Bengaluru,Whitefield,SEVERE,42.4,2026-06-16 02:42:52
+72,Bengaluru,MG Road,MODERATE,13.2,2026-06-17 11:39:52
+73,Hyderabad,Gachibowli,SEVERE,41.0,2026-06-22 01:55:52
+74,Bengaluru,Koramangala,MODERATE,19.2,2026-06-10 11:20:52
+75,Bengaluru,Jayanagar,MODERATE,13.5,2026-06-14 10:57:52
+76,Bengaluru,Electronic City,LOW,29.3,2026-06-11 20:13:52
+77,Hyderabad,Hitech City,MODERATE,14.6,2026-06-20 19:09:52
+78,Bengaluru,Whitefield,LOW,16.0,2026-06-24 07:33:52
+79,Bengaluru,Koramangala,MODERATE,44.0,2026-07-09 13:39:52
+80,Bengaluru,Marathahalli,SEVERE,42.1,2026-06-10 01:50:52
+81,Bengaluru,Marathahalli,MODERATE,27.6,2026-06-18 08:33:52
+82,Bengaluru,Marathahalli,HIGH,38.6,2026-06-15 03:41:52
+83,Bengaluru,Whitefield,MODERATE,26.7,2026-06-14 13:13:52
+84,Hyderabad,Hitech City,LOW,27.1,2026-06-24 06:42:52
+85,Bengaluru,Jayanagar,HIGH,29.1,2026-06-14 09:07:52
+86,Bengaluru,Airport,SEVERE,32.0,2026-07-07 15:09:52
+87,Bengaluru,Electronic City,HIGH,31.6,2026-07-06 16:38:52
+88,Bengaluru,MG Road,SEVERE,41.0,2026-06-18 23:17:52
+89,Bengaluru,Airport,LOW,36.2,2026-07-07 04:27:52
+90,Mumbai,Andheri,LOW,12.8,2026-06-25 04:53:52
+91,Hyderabad,Gachibowli,HIGH,28.9,2026-06-11 08:07:52
+92,Hyderabad,Gachibowli,MODERATE,27.4,2026-06-12 16:30:52
+93,Bengaluru,MG Road,HIGH,19.2,2026-07-03 11:50:52
+94,Bengaluru,MG Road,MODERATE,22.1,2026-06-10 13:15:52
+95,Bengaluru,Koramangala,LOW,31.6,2026-07-05 13:57:52
+96,Bengaluru,Electronic City,SEVERE,23.1,2026-06-16 19:17:52
+97,Mumbai,Andheri,SEVERE,21.1,2026-06-23 09:26:52
+98,Mumbai,Powai,MODERATE,25.8,2026-07-08 00:52:52
+99,Bengaluru,Whitefield,MODERATE,26.4,2026-06-22 06:48:52
+100,Hyderabad,Airport,HIGH,18.7,2026-06-14 07:21:52
+101,Bengaluru,Airport,HIGH,32.7,2026-06-28 06:36:52
+102,Bengaluru,Whitefield,HIGH,44.3,2026-06-21 03:05:52
+103,Bengaluru,HSR Layout,SEVERE,16.8,2026-06-21 23:15:52
+104,Bengaluru,Marathahalli,MODERATE,8.2,2026-06-22 12:28:52
+105,Hyderabad,Hitech City,SEVERE,40.7,2026-06-20 02:37:52
+106,Bengaluru,Airport,SEVERE,9.2,2026-06-13 01:06:52
+107,Hyderabad,Gachibowli,SEVERE,26.5,2026-07-03 18:49:52
+108,Bengaluru,Marathahalli,SEVERE,35.6,2026-07-05 10:17:52
+109,Bengaluru,Electronic City,MODERATE,8.5,2026-07-06 18:56:52
+110,Hyderabad,Gachibowli,HIGH,22.1,2026-07-07 10:39:52
+111,Bengaluru,HSR Layout,MODERATE,43.1,2026-06-23 09:28:52
+112,Bengaluru,HSR Layout,SEVERE,31.3,2026-07-06 07:22:52
+113,Bengaluru,Koramangala,MODERATE,33.3,2026-06-22 14:31:52
+114,Bengaluru,Whitefield,HIGH,16.1,2026-06-27 22:51:52
+115,Mumbai,Bandra,HIGH,8.7,2026-06-21 08:16:52
+116,Mumbai,Bandra,HIGH,32.5,2026-06-30 09:22:52
+117,Hyderabad,Gachibowli,HIGH,35.1,2026-06-10 06:49:52
+118,Hyderabad,Hitech City,MODERATE,40.8,2026-06-16 18:25:52
+119,Bengaluru,MG Road,MODERATE,14.1,2026-06-30 01:44:52
+120,Bengaluru,Airport,MODERATE,19.5,2026-06-09 17:02:52
+121,Hyderabad,Gachibowli,HIGH,43.0,2026-06-27 01:39:52
+122,Bengaluru,Koramangala,SEVERE,34.8,2026-06-25 21:41:52
+123,Bengaluru,Marathahalli,LOW,44.1,2026-06-14 13:15:52
+124,Mumbai,Andheri,LOW,44.3,2026-07-07 07:33:52
+125,Bengaluru,MG Road,LOW,18.8,2026-07-07 20:44:52
+126,Hyderabad,Hitech City,LOW,12.8,2026-06-21 15:42:52
+127,Bengaluru,Jayanagar,SEVERE,40.2,2026-06-28 11:28:52
+128,Hyderabad,Hitech City,SEVERE,17.6,2026-06-27 17:39:52
+129,Bengaluru,Marathahalli,LOW,41.1,2026-06-24 23:07:52
+130,Bengaluru,Airport,SEVERE,11.7,2026-07-08 09:20:52
+131,Bengaluru,Marathahalli,SEVERE,11.9,2026-07-06 14:01:52
+132,Bengaluru,Koramangala,MODERATE,25.0,2026-07-05 11:16:52
+133,Bengaluru,Marathahalli,HIGH,29.4,2026-06-15 10:38:52
+134,Bengaluru,MG Road,MODERATE,33.5,2026-06-25 16:59:52
+135,Hyderabad,Hitech City,HIGH,16.4,2026-06-27 08:58:52
+136,Hyderabad,Gachibowli,LOW,43.6,2026-06-20 19:57:52
+137,Bengaluru,Electronic City,HIGH,22.0,2026-06-28 08:43:52
+138,Bengaluru,HSR Layout,HIGH,26.2,2026-06-23 23:15:52
+139,Bengaluru,HSR Layout,HIGH,38.6,2026-07-07 22:40:52
+140,Bengaluru,Jayanagar,LOW,10.1,2026-06-21 14:14:52
+141,Bengaluru,Marathahalli,MODERATE,39.1,2026-07-07 10:52:52
+142,Bengaluru,MG Road,HIGH,40.4,2026-07-04 19:58:52
+143,Mumbai,Powai,HIGH,22.0,2026-06-08 22:52:52
+144,Hyderabad,Hitech City,LOW,16.8,2026-06-18 03:26:52
+145,Mumbai,Bandra,SEVERE,18.8,2026-06-16 11:13:52
+146,Mumbai,Bandra,HIGH,24.2,2026-07-02 12:21:52
+147,Bengaluru,Airport,HIGH,23.2,2026-06-27 12:12:52
+148,Bengaluru,Whitefield,HIGH,33.7,2026-07-07 09:21:52
+149,Bengaluru,HSR Layout,LOW,36.3,2026-06-18 11:09:52
+150,Mumbai,Airport,HIGH,15.0,2026-06-21 12:11:52
+151,Bengaluru,HSR Layout,HIGH,41.5,2026-06-21 06:34:52
+152,Hyderabad,Hitech City,MODERATE,42.8,2026-06-22 13:15:52
+153,Hyderabad,Hitech City,MODERATE,28.9,2026-06-29 16:59:52
+154,Bengaluru,Indiranagar,HIGH,16.3,2026-06-23 13:08:52
+155,Bengaluru,Koramangala,MODERATE,25.8,2026-06-13 08:49:52
+156,Hyderabad,Gachibowli,MODERATE,19.1,2026-06-29 02:11:52
+157,Bengaluru,Koramangala,HIGH,34.3,2026-06-18 23:04:52
+158,Mumbai,Airport,LOW,10.9,2026-07-02 09:07:52
+159,Bengaluru,Airport,SEVERE,9.7,2026-06-14 18:39:52
+160,Bengaluru,HSR Layout,LOW,40.3,2026-06-10 21:55:52
+161,Hyderabad,Gachibowli,LOW,16.6,2026-06-26 22:47:52
+162,Hyderabad,Airport,SEVERE,27.2,2026-06-19 02:54:52
+163,Bengaluru,Marathahalli,LOW,18.1,2026-06-21 16:21:52
+164,Bengaluru,Marathahalli,HIGH,24.4,2026-07-05 02:11:52
+165,Bengaluru,MG Road,SEVERE,27.6,2026-06-29 07:47:52
+166,Mumbai,Andheri,SEVERE,11.4,2026-06-14 23:55:52
+167,Bengaluru,MG Road,MODERATE,21.3,2026-06-20 18:33:52
+168,Bengaluru,Whitefield,HIGH,9.7,2026-07-05 20:08:52
+169,Bengaluru,Electronic City,HIGH,8.7,2026-06-27 23:47:52
+170,Mumbai,Airport,SEVERE,27.5,2026-06-09 13:05:52
+171,Mumbai,Powai,HIGH,32.7,2026-07-01 22:16:52
+172,Bengaluru,Electronic City,MODERATE,41.6,2026-06-10 14:10:52
+173,Mumbai,Andheri,SEVERE,20.5,2026-06-08 23:37:52
+174,Bengaluru,Electronic City,MODERATE,18.0,2026-06-10 04:42:52
+175,Hyderabad,Hitech City,LOW,8.1,2026-06-17 03:18:52
+176,Bengaluru,Electronic City,HIGH,25.6,2026-06-19 13:17:52
+177,Bengaluru,Jayanagar,LOW,44.5,2026-07-01 00:48:52
+178,Bengaluru,Marathahalli,HIGH,30.1,2026-06-09 04:43:52
+179,Bengaluru,Airport,MODERATE,8.6,2026-06-29 01:04:52
+180,Hyderabad,Hitech City,LOW,33.4,2026-07-02 07:16:52
+181,Mumbai,Bandra,SEVERE,24.4,2026-07-04 17:11:52
+182,Bengaluru,Airport,MODERATE,41.5,2026-06-15 07:49:52
+183,Mumbai,Powai,LOW,43.8,2026-07-04 05:01:52
+184,Bengaluru,Airport,HIGH,44.7,2026-06-26 16:17:52
+185,Bengaluru,Jayanagar,HIGH,24.0,2026-07-06 12:17:52
+186,Bengaluru,MG Road,SEVERE,37.8,2026-06-14 18:58:52
+187,Hyderabad,Gachibowli,HIGH,16.7,2026-06-18 19:45:52
+188,Bengaluru,Airport,SEVERE,39.2,2026-06-27 20:35:52
+189,Bengaluru,Airport,SEVERE,8.5,2026-06-18 00:41:52
+190,Bengaluru,Marathahalli,SEVERE,35.4,2026-06-23 05:39:52
+191,Bengaluru,Electronic City,HIGH,26.5,2026-07-05 10:02:52
+192,Bengaluru,Jayanagar,MODERATE,16.8,2026-06-30 22:44:52
+193,Mumbai,Bandra,MODERATE,12.2,2026-06-22 20:21:52
+194,Bengaluru,HSR Layout,MODERATE,18.5,2026-07-06 20:48:52
+195,Hyderabad,Hitech City,HIGH,35.3,2026-06-14 01:21:52
+196,Mumbai,Andheri,MODERATE,40.5,2026-06-15 19:09:52
+197,Bengaluru,Airport,MODERATE,29.4,2026-06-22 20:26:52
+198,Bengaluru,Marathahalli,LOW,41.6,2026-07-09 09:41:52
+199,Bengaluru,Airport,LOW,23.7,2026-06-14 18:32:52
+200,Bengaluru,HSR Layout,MODERATE,9.0,2026-06-26 08:49:52
+201,Bengaluru,Airport,HIGH,35.4,2026-06-15 22:35:52
+202,Bengaluru,Jayanagar,MODERATE,21.9,2026-06-22 20:38:52
+203,Hyderabad,Airport,SEVERE,21.6,2026-06-19 19:02:52
+204,Bengaluru,Koramangala,LOW,42.4,2026-06-30 12:03:52
+205,Bengaluru,Marathahalli,SEVERE,40.1,2026-06-24 20:48:52
+206,Bengaluru,Airport,LOW,18.8,2026-06-09 01:28:52
+207,Bengaluru,Indiranagar,MODERATE,18.7,2026-06-11 10:02:52
+208,Bengaluru,Marathahalli,HIGH,15.9,2026-06-17 07:53:52
+209,Bengaluru,HSR Layout,HIGH,17.3,2026-06-16 22:16:52
+210,Bengaluru,Airport,MODERATE,34.7,2026-06-14 14:26:52
+211,Mumbai,Airport,HIGH,38.2,2026-07-07 21:28:52
+212,Bengaluru,Marathahalli,HIGH,43.0,2026-06-14 23:34:52
+213,Bengaluru,Whitefield,HIGH,29.6,2026-06-20 09:12:52
+214,Hyderabad,Airport,SEVERE,44.6,2026-06-28 13:20:52
+215,Bengaluru,Marathahalli,HIGH,25.5,2026-06-15 04:29:52
+216,Bengaluru,Koramangala,SEVERE,13.5,2026-06-30 04:27:52
+217,Bengaluru,Whitefield,LOW,25.4,2026-06-22 10:53:52
+218,Hyderabad,Gachibowli,HIGH,29.8,2026-06-19 23:16:52
+219,Hyderabad,Gachibowli,HIGH,15.2,2026-06-13 21:34:52
+220,Bengaluru,MG Road,LOW,23.6,2026-06-26 07:04:52
+221,Mumbai,Powai,LOW,15.1,2026-06-24 15:32:52
+222,Mumbai,Andheri,LOW,14.1,2026-07-09 10:30:52
+223,Hyderabad,Gachibowli,MODERATE,33.7,2026-06-10 02:20:52
+224,Bengaluru,Marathahalli,HIGH,15.7,2026-06-18 02:09:52
+225,Mumbai,Airport,SEVERE,33.7,2026-06-17 06:32:52
+226,Bengaluru,Indiranagar,SEVERE,24.0,2026-07-01 14:41:52
+227,Mumbai,Bandra,HIGH,20.6,2026-06-30 00:52:52
+228,Bengaluru,Airport,LOW,35.8,2026-06-27 13:38:52
+229,Bengaluru,Koramangala,LOW,35.7,2026-07-01 19:21:52
+230,Bengaluru,Marathahalli,SEVERE,8.9,2026-07-02 13:14:52
+231,Bengaluru,MG Road,LOW,12.7,2026-07-06 07:40:52
+232,Bengaluru,Airport,HIGH,31.1,2026-06-27 01:24:52
+233,Hyderabad,Gachibowli,LOW,11.6,2026-06-22 12:56:52
+234,Bengaluru,Koramangala,LOW,27.2,2026-06-19 07:36:52
+235,Bengaluru,Airport,LOW,15.3,2026-06-18 21:10:52
+236,Bengaluru,Koramangala,SEVERE,19.3,2026-06-22 11:57:52
+237,Bengaluru,Koramangala,HIGH,37.9,2026-06-20 20:26:52
+238,Bengaluru,Jayanagar,LOW,11.1,2026-06-20 18:05:52
+239,Bengaluru,HSR Layout,LOW,32.9,2026-07-08 04:15:52
+240,Mumbai,Bandra,LOW,15.8,2026-06-20 23:23:52
+241,Mumbai,Airport,MODERATE,20.4,2026-06-25 16:34:52
+242,Bengaluru,HSR Layout,HIGH,21.3,2026-06-22 17:30:52
+243,Bengaluru,Electronic City,SEVERE,21.1,2026-07-06 13:41:52
+244,Bengaluru,Indiranagar,MODERATE,32.7,2026-06-20 07:57:52
+245,Bengaluru,Marathahalli,SEVERE,20.3,2026-07-08 06:36:52
+246,Bengaluru,Marathahalli,SEVERE,36.7,2026-07-08 14:30:52
+247,Mumbai,Bandra,LOW,28.8,2026-07-07 03:15:52
+248,Hyderabad,Hitech City,LOW,28.5,2026-07-07 17:23:52
+249,Bengaluru,HSR Layout,SEVERE,38.6,2026-06-16 00:33:52
+250,Bengaluru,Electronic City,LOW,32.5,2026-07-04 02:56:52
+251,Hyderabad,Airport,SEVERE,16.1,2026-06-27 11:54:52
+252,Mumbai,Airport,LOW,35.2,2026-06-20 23:07:52
+253,Bengaluru,HSR Layout,SEVERE,18.0,2026-06-14 12:53:52
+254,Bengaluru,Koramangala,MODERATE,27.7,2026-06-13 01:15:52
+255,Bengaluru,Indiranagar,HIGH,34.8,2026-07-08 22:39:52
+256,Mumbai,Bandra,SEVERE,37.6,2026-06-24 01:37:52
+257,Bengaluru,Marathahalli,HIGH,42.1,2026-06-30 17:19:52
+258,Mumbai,Airport,LOW,28.2,2026-06-20 00:52:52
+259,Hyderabad,Hitech City,LOW,24.2,2026-06-17 00:00:52
+260,Bengaluru,Electronic City,SEVERE,36.8,2026-07-02 18:08:52
+261,Mumbai,Airport,MODERATE,36.4,2026-07-02 05:23:52
+262,Bengaluru,Jayanagar,HIGH,26.3,2026-06-13 16:35:52
+263,Hyderabad,Airport,LOW,14.9,2026-07-07 13:06:52
+264,Hyderabad,Gachibowli,MODERATE,35.8,2026-06-14 05:09:52
+265,Mumbai,Airport,MODERATE,26.4,2026-06-08 19:25:52
+266,Bengaluru,HSR Layout,LOW,31.3,2026-06-23 06:28:52
+267,Bengaluru,Electronic City,HIGH,39.1,2026-06-13 01:05:52
+268,Bengaluru,Koramangala,MODERATE,9.8,2026-07-01 04:42:52
+269,Bengaluru,Airport,LOW,9.8,2026-07-02 20:58:52
+270,Bengaluru,Marathahalli,LOW,10.2,2026-06-22 15:24:52
+271,Bengaluru,MG Road,MODERATE,23.5,2026-06-27 02:36:52
+272,Bengaluru,Indiranagar,MODERATE,30.1,2026-07-07 10:07:52
+273,Bengaluru,HSR Layout,MODERATE,20.2,2026-06-22 09:40:52
+274,Bengaluru,MG Road,LOW,36.7,2026-06-25 11:08:52
+275,Bengaluru,Indiranagar,LOW,26.7,2026-07-02 21:54:52
+276,Bengaluru,Koramangala,HIGH,9.1,2026-07-07 15:44:52
+277,Bengaluru,HSR Layout,MODERATE,34.8,2026-06-14 01:27:52
+278,Bengaluru,Whitefield,LOW,35.6,2026-06-24 21:59:52
+279,Bengaluru,MG Road,LOW,8.7,2026-07-07 11:32:52
+280,Hyderabad,Gachibowli,SEVERE,40.6,2026-06-17 03:16:52
+281,Bengaluru,Airport,LOW,37.4,2026-06-17 11:51:52
+282,Bengaluru,Koramangala,SEVERE,22.0,2026-07-06 17:51:52
+283,Hyderabad,Gachibowli,SEVERE,40.2,2026-06-30 13:35:52
+284,Bengaluru,HSR Layout,SEVERE,8.5,2026-06-15 02:37:52
+285,Mumbai,Airport,SEVERE,18.7,2026-06-23 08:25:52
+286,Bengaluru,Whitefield,LOW,15.9,2026-06-24 10:09:52
+287,Bengaluru,HSR Layout,MODERATE,42.8,2026-06-21 21:54:52
+288,Mumbai,Bandra,MODERATE,41.7,2026-07-06 12:17:52
+289,Mumbai,Airport,SEVERE,40.7,2026-07-07 18:02:52
+290,Bengaluru,Whitefield,HIGH,19.7,2026-06-30 21:25:52
+291,Hyderabad,Gachibowli,SEVERE,41.0,2026-07-04 07:02:52
+292,Bengaluru,HSR Layout,LOW,34.1,2026-07-05 11:00:52
+293,Bengaluru,Koramangala,HIGH,31.3,2026-07-07 20:17:52
+294,Hyderabad,Airport,MODERATE,17.8,2026-07-06 01:19:52
+295,Bengaluru,Koramangala,SEVERE,19.9,2026-07-04 10:33:52
+296,Mumbai,Bandra,LOW,34.7,2026-07-02 19:36:52
+297,Bengaluru,Airport,HIGH,25.2,2026-06-15 16:52:52
+298,Mumbai,Airport,SEVERE,33.8,2026-07-06 17:00:52
+299,Bengaluru,Airport,SEVERE,16.0,2026-06-24 03:56:52
+300,Bengaluru,HSR Layout,LOW,43.9,2026-06-19 18:16:52
+301,Bengaluru,Whitefield,HIGH,36.6,2026-06-17 04:30:52
+302,Mumbai,Bandra,MODERATE,8.5,2026-06-18 08:19:52
+303,Bengaluru,MG Road,HIGH,8.0,2026-06-21 03:11:52
+304,Bengaluru,Koramangala,SEVERE,38.9,2026-07-03 19:31:52
+305,Bengaluru,HSR Layout,HIGH,22.2,2026-06-27 22:03:52
+306,Bengaluru,HSR Layout,MODERATE,29.9,2026-06-14 11:13:52
+307,Bengaluru,Jayanagar,HIGH,11.1,2026-06-30 23:46:52
+308,Bengaluru,HSR Layout,MODERATE,26.3,2026-07-06 08:13:52
+309,Mumbai,Powai,HIGH,13.4,2026-07-08 13:45:52
+310,Bengaluru,MG Road,HIGH,8.8,2026-06-13 00:55:52
+311,Bengaluru,Indiranagar,SEVERE,42.9,2026-06-15 12:46:52
+312,Bengaluru,Airport,SEVERE,19.1,2026-07-01 08:07:52
+313,Mumbai,Airport,SEVERE,44.3,2026-07-08 07:27:52
+314,Bengaluru,Marathahalli,SEVERE,36.8,2026-06-29 01:38:52
+315,Mumbai,Andheri,LOW,39.6,2026-06-29 05:43:52
+316,Bengaluru,Koramangala,SEVERE,33.3,2026-06-10 19:56:52
+317,Bengaluru,Electronic City,SEVERE,16.7,2026-07-03 04:57:52
+318,Mumbai,Airport,HIGH,26.9,2026-07-01 12:58:52
+319,Hyderabad,Gachibowli,SEVERE,16.4,2026-06-16 09:35:52
+320,Bengaluru,HSR Layout,SEVERE,16.6,2026-06-28 01:29:52
+321,Mumbai,Andheri,LOW,20.4,2026-06-29 09:08:52
+322,Bengaluru,Electronic City,HIGH,42.3,2026-06-26 04:13:52
+323,Bengaluru,Koramangala,LOW,12.3,2026-06-09 15:16:52
+324,Bengaluru,Jayanagar,SEVERE,33.8,2026-06-09 10:17:52
+325,Hyderabad,Hitech City,HIGH,30.6,2026-06-25 14:12:52
+326,Hyderabad,Gachibowli,MODERATE,38.4,2026-06-18 14:16:52
+327,Bengaluru,MG Road,LOW,29.2,2026-06-08 21:53:52
+328,Bengaluru,MG Road,SEVERE,39.5,2026-06-22 08:17:52
+329,Bengaluru,Indiranagar,HIGH,25.5,2026-06-15 21:05:52
+330,Bengaluru,Koramangala,HIGH,19.3,2026-06-22 01:05:52
+331,Hyderabad,Gachibowli,MODERATE,38.6,2026-07-04 03:09:52
+332,Mumbai,Airport,MODERATE,23.7,2026-07-01 17:42:52
+333,Bengaluru,Electronic City,HIGH,15.7,2026-06-19 18:26:52
+334,Bengaluru,Marathahalli,LOW,38.5,2026-06-26 07:18:52
+335,Mumbai,Airport,LOW,40.8,2026-07-08 12:34:52
+336,Bengaluru,Koramangala,MODERATE,31.3,2026-06-17 09:00:52
+337,Bengaluru,Electronic City,LOW,37.4,2026-07-09 09:05:52
+338,Mumbai,Airport,HIGH,19.0,2026-06-28 06:37:52
+339,Bengaluru,Electronic City,MODERATE,23.5,2026-06-28 23:14:52
+340,Bengaluru,HSR Layout,SEVERE,44.8,2026-06-21 02:06:52
+341,Hyderabad,Airport,HIGH,24.3,2026-07-04 05:36:52
+342,Mumbai,Powai,SEVERE,17.0,2026-07-02 06:50:52
+343,Bengaluru,Jayanagar,HIGH,41.5,2026-06-11 17:56:52
+344,Bengaluru,HSR Layout,SEVERE,44.6,2026-06-21 23:58:52
+345,Bengaluru,Marathahalli,LOW,14.2,2026-06-26 06:16:52
+346,Bengaluru,Koramangala,HIGH,11.1,2026-06-26 16:58:52
+347,Bengaluru,MG Road,LOW,15.7,2026-07-05 04:28:52
+348,Mumbai,Bandra,MODERATE,17.2,2026-07-08 17:02:52
+349,Bengaluru,Airport,SEVERE,43.9,2026-06-25 13:47:52
+350,Mumbai,Powai,LOW,42.7,2026-06-21 23:26:52
+351,Bengaluru,Koramangala,HIGH,24.2,2026-07-03 05:56:52
+352,Bengaluru,Whitefield,SEVERE,40.2,2026-07-03 09:41:52
+353,Hyderabad,Gachibowli,MODERATE,22.5,2026-07-08 16:44:52
+354,Hyderabad,Gachibowli,SEVERE,26.9,2026-07-01 02:18:52
+355,Hyderabad,Airport,LOW,29.7,2026-06-12 00:47:52
+356,Hyderabad,Hitech City,MODERATE,17.4,2026-06-26 10:35:52
+357,Bengaluru,Indiranagar,HIGH,21.0,2026-07-05 20:43:52
+358,Bengaluru,Electronic City,LOW,39.4,2026-07-04 05:18:52
+359,Bengaluru,HSR Layout,MODERATE,25.0,2026-06-17 09:49:52
+360,Bengaluru,Indiranagar,LOW,37.5,2026-06-28 08:24:52
+361,Bengaluru,Electronic City,MODERATE,38.3,2026-07-06 22:45:52
+362,Hyderabad,Hitech City,LOW,28.9,2026-07-04 03:39:52
+363,Mumbai,Bandra,MODERATE,10.8,2026-07-07 23:12:52
+364,Mumbai,Andheri,LOW,29.8,2026-06-22 02:26:52
+365,Bengaluru,Airport,LOW,20.1,2026-06-28 08:09:52
+366,Bengaluru,Marathahalli,MODERATE,16.9,2026-06-11 18:48:52
+367,Bengaluru,Indiranagar,HIGH,41.1,2026-07-05 18:05:52
+368,Bengaluru,Whitefield,SEVERE,20.9,2026-06-27 21:11:52
+369,Bengaluru,Electronic City,SEVERE,14.7,2026-06-24 23:52:52
+370,Hyderabad,Airport,SEVERE,10.9,2026-06-17 05:54:52
+371,Bengaluru,Marathahalli,MODERATE,40.7,2026-07-08 07:38:52
+372,Hyderabad,Hitech City,HIGH,24.4,2026-07-04 05:50:52
+373,Bengaluru,MG Road,SEVERE,25.7,2026-06-13 17:12:52
+374,Mumbai,Airport,MODERATE,16.4,2026-06-24 12:06:52
+375,Bengaluru,Jayanagar,LOW,41.0,2026-07-05 07:04:52
+376,Mumbai,Bandra,HIGH,13.2,2026-07-07 15:08:52
+377,Bengaluru,HSR Layout,SEVERE,29.7,2026-07-02 13:03:52
+378,Bengaluru,Airport,HIGH,32.0,2026-06-08 15:31:52
+379,Bengaluru,MG Road,MODERATE,13.5,2026-06-12 07:45:52
+380,Hyderabad,Airport,MODERATE,42.1,2026-06-16 21:33:52
+381,Mumbai,Airport,MODERATE,27.8,2026-07-07 10:28:52
+382,Hyderabad,Hitech City,MODERATE,15.5,2026-07-06 04:32:52
+383,Bengaluru,Whitefield,MODERATE,20.0,2026-06-09 08:54:52
+384,Bengaluru,Electronic City,SEVERE,26.0,2026-07-03 21:08:52
+385,Bengaluru,HSR Layout,LOW,30.1,2026-06-10 17:40:52
+386,Bengaluru,HSR Layout,HIGH,31.7,2026-06-18 18:22:52
+387,Mumbai,Bandra,LOW,27.7,2026-06-25 21:23:52
+388,Bengaluru,MG Road,LOW,18.4,2026-06-10 22:49:52
+389,Hyderabad,Airport,MODERATE,33.8,2026-06-10 18:15:52
+390,Bengaluru,Indiranagar,SEVERE,41.7,2026-06-15 14:02:52
+391,Mumbai,Airport,LOW,19.6,2026-06-19 08:36:52
+392,Mumbai,Andheri,MODERATE,25.1,2026-06-15 00:36:52
+393,Bengaluru,Airport,HIGH,9.5,2026-07-02 03:49:52
+394,Bengaluru,HSR Layout,SEVERE,15.6,2026-06-10 10:42:52
+395,Bengaluru,Jayanagar,HIGH,12.7,2026-06-11 11:25:52
+396,Bengaluru,Jayanagar,HIGH,14.7,2026-06-15 06:10:52
+397,Bengaluru,HSR Layout,LOW,16.0,2026-06-23 00:54:52
+398,Mumbai,Bandra,HIGH,25.0,2026-06-22 06:13:52
+399,Bengaluru,MG Road,HIGH,32.2,2026-07-03 11:50:52
+400,Bengaluru,Electronic City,SEVERE,37.5,2026-06-10 18:04:52
+401,Hyderabad,Airport,SEVERE,26.8,2026-06-13 01:27:52
+402,Bengaluru,MG Road,HIGH,23.0,2026-06-25 05:19:52
+403,Hyderabad,Hitech City,LOW,28.8,2026-06-16 14:47:52
+404,Bengaluru,MG Road,MODERATE,24.9,2026-06-23 19:42:52
+405,Bengaluru,Airport,MODERATE,27.2,2026-06-08 22:38:52
+406,Bengaluru,HSR Layout,SEVERE,26.7,2026-06-14 01:13:52
+407,Mumbai,Bandra,HIGH,38.9,2026-06-17 13:39:52
+408,Mumbai,Powai,MODERATE,9.7,2026-06-15 10:56:52
+409,Hyderabad,Hitech City,LOW,33.8,2026-06-08 20:19:52
+410,Bengaluru,Jayanagar,LOW,37.7,2026-07-02 23:50:52
+411,Bengaluru,Airport,LOW,21.4,2026-06-16 02:37:52
+412,Bengaluru,Jayanagar,MODERATE,37.8,2026-06-23 03:51:52
+413,Hyderabad,Gachibowli,HIGH,11.2,2026-06-18 02:03:52
+414,Mumbai,Andheri,SEVERE,24.8,2026-06-17 07:15:52
+415,Hyderabad,Hitech City,MODERATE,39.2,2026-07-01 22:41:52
+416,Bengaluru,Whitefield,SEVERE,24.1,2026-06-25 20:55:52
+417,Mumbai,Bandra,HIGH,38.5,2026-07-04 23:55:52
+418,Mumbai,Airport,LOW,11.4,2026-06-28 03:53:52
+419,Bengaluru,Koramangala,MODERATE,29.6,2026-07-05 12:03:52
+420,Bengaluru,Jayanagar,MODERATE,21.4,2026-06-20 18:37:52
+421,Mumbai,Bandra,LOW,26.4,2026-07-05 21:33:52
+422,Bengaluru,MG Road,MODERATE,19.0,2026-06-25 22:24:52
+423,Bengaluru,Indiranagar,MODERATE,36.5,2026-07-08 20:15:52
+424,Bengaluru,Airport,MODERATE,19.6,2026-07-09 05:41:52
+425,Bengaluru,Jayanagar,SEVERE,35.8,2026-06-26 16:52:52
+426,Bengaluru,Jayanagar,SEVERE,27.2,2026-07-04 05:24:52
+427,Bengaluru,Electronic City,LOW,18.6,2026-06-15 05:26:52
+428,Bengaluru,Jayanagar,MODERATE,12.5,2026-07-06 22:12:52
+429,Hyderabad,Airport,HIGH,44.1,2026-06-25 08:51:52
+430,Hyderabad,Gachibowli,HIGH,21.7,2026-07-02 09:29:52
+431,Mumbai,Airport,SEVERE,34.8,2026-07-01 15:03:52
+432,Hyderabad,Airport,MODERATE,9.6,2026-06-26 09:47:52
+433,Mumbai,Airport,LOW,39.0,2026-06-20 21:08:52
+434,Bengaluru,Indiranagar,LOW,9.3,2026-06-15 13:43:52
+435,Hyderabad,Hitech City,LOW,9.3,2026-07-09 08:51:52
+436,Hyderabad,Hitech City,LOW,38.5,2026-06-11 22:34:52
+437,Mumbai,Andheri,MODERATE,11.7,2026-06-18 06:12:52
+438,Bengaluru,Indiranagar,MODERATE,33.2,2026-06-14 08:34:52
+439,Bengaluru,Koramangala,LOW,20.3,2026-07-04 21:22:52
+440,Bengaluru,Airport,HIGH,38.4,2026-06-14 02:33:52
+441,Bengaluru,Indiranagar,LOW,12.9,2026-06-11 01:54:52
+442,Mumbai,Andheri,HIGH,12.1,2026-06-12 08:38:52
+443,Hyderabad,Airport,LOW,32.8,2026-06-18 17:44:52
+444,Bengaluru,Indiranagar,MODERATE,19.1,2026-06-11 23:27:52
+445,Hyderabad,Gachibowli,SEVERE,37.9,2026-06-30 08:03:52
+446,Bengaluru,HSR Layout,LOW,28.0,2026-07-01 17:29:52
+447,Mumbai,Bandra,MODERATE,12.3,2026-06-10 16:08:52
+448,Mumbai,Powai,HIGH,39.9,2026-06-10 01:49:52
+449,Bengaluru,Whitefield,HIGH,19.5,2026-06-09 12:57:52
+450,Mumbai,Airport,SEVERE,14.5,2026-07-03 09:36:52
+451,Bengaluru,Marathahalli,LOW,10.8,2026-07-04 15:03:52
+452,Bengaluru,Indiranagar,HIGH,34.3,2026-06-22 14:49:52
+453,Mumbai,Powai,MODERATE,35.1,2026-06-24 15:24:52
+454,Bengaluru,Koramangala,HIGH,21.5,2026-06-15 19:25:52
+455,Bengaluru,Marathahalli,MODERATE,37.6,2026-06-27 01:05:52
+456,Bengaluru,Whitefield,SEVERE,15.5,2026-07-08 09:25:52
+457,Bengaluru,Koramangala,MODERATE,13.4,2026-06-14 17:34:52
+458,Mumbai,Andheri,HIGH,42.1,2026-06-24 05:41:52
+459,Mumbai,Andheri,HIGH,8.3,2026-06-24 00:16:52
+460,Mumbai,Airport,HIGH,27.9,2026-06-08 16:31:52
+461,Hyderabad,Airport,MODERATE,19.3,2026-07-02 01:15:52
+462,Bengaluru,Indiranagar,LOW,24.3,2026-07-08 12:22:52
+463,Bengaluru,Koramangala,MODERATE,40.0,2026-06-27 17:25:52
+464,Mumbai,Powai,MODERATE,23.9,2026-07-03 00:09:52
+465,Bengaluru,Electronic City,HIGH,14.8,2026-06-13 05:49:52
+466,Bengaluru,MG Road,SEVERE,11.8,2026-06-26 04:17:52
+467,Bengaluru,Marathahalli,SEVERE,20.8,2026-06-30 02:45:52
+468,Bengaluru,MG Road,MODERATE,24.6,2026-06-14 11:19:52
+469,Hyderabad,Hitech City,MODERATE,14.3,2026-07-05 02:52:52
+470,Bengaluru,MG Road,MODERATE,32.3,2026-06-20 07:12:52
+471,Hyderabad,Airport,LOW,10.6,2026-06-18 12:53:52
+472,Mumbai,Airport,HIGH,18.8,2026-07-07 03:28:52
+473,Bengaluru,Whitefield,SEVERE,17.8,2026-06-25 09:57:52
+474,Mumbai,Bandra,MODERATE,36.8,2026-06-10 11:26:52
+475,Mumbai,Andheri,LOW,32.8,2026-06-23 09:06:52
+476,Bengaluru,MG Road,SEVERE,32.4,2026-06-10 04:27:52
+477,Bengaluru,Koramangala,HIGH,35.9,2026-06-14 18:24:52
+478,Bengaluru,Marathahalli,HIGH,38.5,2026-06-11 18:44:52
+479,Hyderabad,Hitech City,MODERATE,29.4,2026-06-27 02:22:52
+480,Mumbai,Bandra,HIGH,29.4,2026-07-07 16:05:52
+481,Bengaluru,Jayanagar,MODERATE,22.8,2026-07-03 22:36:52
+482,Mumbai,Powai,HIGH,16.8,2026-07-01 23:10:52
+483,Hyderabad,Gachibowli,LOW,19.8,2026-07-08 17:35:52
+484,Hyderabad,Airport,LOW,19.9,2026-06-24 02:20:52
+485,Bengaluru,HSR Layout,MODERATE,9.5,2026-06-26 03:47:52
+486,Bengaluru,MG Road,SEVERE,41.8,2026-06-23 13:06:52
+487,Bengaluru,MG Road,SEVERE,38.9,2026-06-14 12:55:52
+488,Bengaluru,HSR Layout,SEVERE,23.2,2026-06-13 21:25:52
+489,Mumbai,Andheri,MODERATE,23.3,2026-06-30 07:33:52
+490,Mumbai,Andheri,MODERATE,35.9,2026-06-13 19:41:52
+491,Bengaluru,Jayanagar,HIGH,28.0,2026-06-14 08:46:52
+492,Mumbai,Bandra,LOW,13.2,2026-07-07 07:13:52
+493,Bengaluru,Koramangala,HIGH,22.6,2026-06-25 23:26:52
+494,Bengaluru,HSR Layout,MODERATE,14.4,2026-06-19 06:00:52
+495,Bengaluru,Airport,HIGH,22.1,2026-06-23 18:01:52
+496,Hyderabad,Gachibowli,MODERATE,16.5,2026-06-08 20:19:52
+497,Mumbai,Bandra,LOW,37.6,2026-06-19 02:07:52
+498,Bengaluru,Electronic City,HIGH,8.5,2026-07-04 04:52:52
+499,Mumbai,Airport,HIGH,18.9,2026-06-20 03:21:52
+500,Bengaluru,Koramangala,LOW,8.1,2026-06-17 15:42:52

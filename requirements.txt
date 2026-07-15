@@ -1,0 +1,14 @@
+# Urban Mobility Intelligence Platform -- Python dependencies
+# Install: pip install -r requirements.txt --break-system-packages
+# (the --break-system-packages flag is only needed on Debian/Ubuntu's
+# externally-managed Python; harmless elsewhere)
+
+pyspark==3.5.1
+pandas==3.0.2
+pyarrow==24.0.0
+psycopg2-binary==2.9.12
+faker==40.28.1
+plotly==6.8.0
+kaleido==1.3.0           # optional: static PNG export for the dashboard.
+                          # Needs a local Chrome/Chromium; the dashboard
+                          # still generates HTML + CSV fine without it.

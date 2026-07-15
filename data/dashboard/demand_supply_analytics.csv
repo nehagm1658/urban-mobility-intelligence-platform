@@ -1,0 +1,385 @@
+city,pickup_zone,hour_of_day,demand_trip_requests,active_drivers,demand_supply_ratio,shortage_rank_in_city
+Bengaluru,Koramangala,14,334,272,1.23,1
+Bengaluru,Marathahalli,17,319,260,1.23,1
+Bengaluru,Whitefield,21,294,243,1.21,3
+Bengaluru,Electronic City,7,333,276,1.21,3
+Bengaluru,Airport,15,308,254,1.21,3
+Bengaluru,HSR Layout,6,319,264,1.21,3
+Bengaluru,Jayanagar,1,327,270,1.21,3
+Bengaluru,MG Road,8,322,267,1.21,3
+Bengaluru,Koramangala,1,315,260,1.21,3
+Bengaluru,Koramangala,18,321,265,1.21,3
+Bengaluru,Koramangala,21,291,241,1.21,3
+Bengaluru,Airport,13,329,272,1.21,3
+Bengaluru,Indiranagar,13,325,271,1.2,13
+Bengaluru,Koramangala,15,300,249,1.2,13
+Bengaluru,MG Road,5,314,262,1.2,13
+Bengaluru,Whitefield,0,321,267,1.2,13
+Bengaluru,Airport,16,295,246,1.2,13
+Bengaluru,MG Road,20,279,233,1.2,13
+Bengaluru,Jayanagar,12,312,260,1.2,13
+Bengaluru,HSR Layout,22,283,236,1.2,13
+Bengaluru,Indiranagar,10,324,271,1.2,13
+Bengaluru,Whitefield,7,343,286,1.2,13
+Bengaluru,MG Road,18,291,242,1.2,13
+Bengaluru,Indiranagar,8,319,268,1.19,24
+Bengaluru,Jayanagar,0,339,284,1.19,24
+Bengaluru,Jayanagar,10,312,262,1.19,24
+Bengaluru,Marathahalli,14,286,241,1.19,24
+Bengaluru,Electronic City,21,324,272,1.19,24
+Bengaluru,MG Road,1,316,265,1.19,24
+Bengaluru,Indiranagar,9,310,261,1.19,24
+Bengaluru,Whitefield,13,307,258,1.19,24
+Bengaluru,Jayanagar,3,321,269,1.19,24
+Bengaluru,Electronic City,9,326,275,1.19,24
+Bengaluru,Koramangala,2,326,273,1.19,24
+Bengaluru,Marathahalli,15,287,241,1.19,24
+Bengaluru,Jayanagar,14,304,256,1.19,24
+Bengaluru,HSR Layout,15,274,230,1.19,24
+Bengaluru,Koramangala,11,299,254,1.18,38
+Bengaluru,HSR Layout,10,313,266,1.18,38
+Bengaluru,Electronic City,0,284,241,1.18,38
+Bengaluru,Marathahalli,7,297,251,1.18,38
+Bengaluru,HSR Layout,11,311,264,1.18,38
+Bengaluru,MG Road,6,292,248,1.18,38
+Bengaluru,Airport,4,302,256,1.18,38
+Bengaluru,HSR Layout,19,287,244,1.18,38
+Bengaluru,MG Road,19,305,259,1.18,38
+Bengaluru,Airport,9,317,268,1.18,38
+Bengaluru,Jayanagar,11,319,271,1.18,38
+Bengaluru,Indiranagar,3,294,250,1.18,38
+Bengaluru,HSR Layout,5,283,240,1.18,38
+Bengaluru,Koramangala,9,306,260,1.18,38
+Bengaluru,Jayanagar,9,329,278,1.18,38
+Bengaluru,Indiranagar,23,295,251,1.18,38
+Bengaluru,Indiranagar,19,311,264,1.18,38
+Bengaluru,Electronic City,15,310,262,1.18,38
+Bengaluru,Jayanagar,16,282,238,1.18,38
+Bengaluru,MG Road,11,289,245,1.18,38
+Bengaluru,Koramangala,20,331,280,1.18,38
+Bengaluru,Marathahalli,22,301,255,1.18,38
+Bengaluru,Electronic City,8,308,262,1.18,38
+Bengaluru,Marathahalli,6,287,243,1.18,38
+Bengaluru,Airport,20,316,268,1.18,38
+Bengaluru,Indiranagar,15,313,267,1.17,63
+Bengaluru,Indiranagar,12,282,241,1.17,63
+Bengaluru,MG Road,12,320,274,1.17,63
+Bengaluru,Electronic City,18,323,276,1.17,63
+Bengaluru,Whitefield,18,321,275,1.17,63
+Bengaluru,Indiranagar,2,304,259,1.17,63
+Bengaluru,Electronic City,4,280,240,1.17,63
+Bengaluru,Whitefield,12,319,273,1.17,63
+Bengaluru,HSR Layout,18,316,271,1.17,63
+Bengaluru,Electronic City,6,301,257,1.17,63
+Bengaluru,MG Road,14,298,255,1.17,63
+Bengaluru,MG Road,22,292,250,1.17,63
+Bengaluru,Whitefield,14,301,258,1.17,63
+Bengaluru,MG Road,2,299,256,1.17,63
+Bengaluru,Jayanagar,8,278,237,1.17,63
+Bengaluru,HSR Layout,17,311,266,1.17,63
+Bengaluru,Marathahalli,12,289,247,1.17,63
+Bengaluru,Whitefield,22,298,255,1.17,63
+Bengaluru,Airport,19,280,240,1.17,63
+Bengaluru,HSR Layout,14,309,264,1.17,63
+Bengaluru,Marathahalli,0,282,242,1.17,63
+Bengaluru,Koramangala,16,286,245,1.17,63
+Bengaluru,Airport,6,306,261,1.17,63
+Bengaluru,Airport,14,311,265,1.17,63
+Bengaluru,HSR Layout,16,336,288,1.17,63
+Bengaluru,MG Road,23,297,253,1.17,63
+Bengaluru,Airport,2,314,268,1.17,63
+Bengaluru,Koramangala,5,321,274,1.17,63
+Bengaluru,Jayanagar,20,284,242,1.17,63
+Bengaluru,HSR Layout,1,284,243,1.17,63
+Bengaluru,Whitefield,3,285,244,1.17,63
+Bengaluru,Airport,23,294,252,1.17,63
+Bengaluru,Jayanagar,15,272,233,1.17,63
+Bengaluru,Marathahalli,11,309,263,1.17,63
+Bengaluru,Electronic City,14,298,255,1.17,63
+Bengaluru,Marathahalli,23,288,246,1.17,63
+Bengaluru,Airport,12,300,259,1.16,99
+Bengaluru,Koramangala,4,302,261,1.16,99
+Bengaluru,Whitefield,6,297,256,1.16,99
+Bengaluru,Airport,22,304,262,1.16,99
+Bengaluru,Koramangala,12,309,267,1.16,99
+Bengaluru,MG Road,17,311,268,1.16,99
+Bengaluru,Indiranagar,18,301,260,1.16,99
+Bengaluru,Marathahalli,13,307,264,1.16,99
+Bengaluru,Electronic City,11,281,242,1.16,99
+Bengaluru,Airport,3,298,258,1.16,99
+Bengaluru,Electronic City,17,285,245,1.16,99
+Bengaluru,Whitefield,4,293,253,1.16,99
+Bengaluru,Jayanagar,23,287,248,1.16,99
+Bengaluru,Koramangala,0,288,248,1.16,99
+Bengaluru,Whitefield,2,337,291,1.16,99
+Bengaluru,Airport,1,301,260,1.16,99
+Bengaluru,Marathahalli,18,305,263,1.16,99
+Bengaluru,Jayanagar,7,313,270,1.16,99
+Bengaluru,Airport,5,313,270,1.16,99
+Bengaluru,HSR Layout,8,291,250,1.16,99
+Bengaluru,HSR Layout,23,315,271,1.16,99
+Bengaluru,Airport,21,293,252,1.16,99
+Bengaluru,Koramangala,8,288,249,1.16,99
+Bengaluru,Jayanagar,13,294,253,1.16,99
+Bengaluru,HSR Layout,7,327,282,1.16,99
+Bengaluru,MG Road,7,279,240,1.16,99
+Bengaluru,Marathahalli,5,303,261,1.16,99
+Bengaluru,Electronic City,12,304,262,1.16,99
+Bengaluru,Indiranagar,16,329,284,1.16,99
+Bengaluru,Indiranagar,17,313,271,1.15,128
+Bengaluru,Jayanagar,17,293,255,1.15,128
+Bengaluru,Airport,8,308,267,1.15,128
+Bengaluru,MG Road,13,272,236,1.15,128
+Bengaluru,Whitefield,8,292,255,1.15,128
+Bengaluru,Electronic City,10,252,219,1.15,128
+Bengaluru,Whitefield,17,305,265,1.15,128
+Bengaluru,Marathahalli,8,292,253,1.15,128
+Bengaluru,Marathahalli,20,290,253,1.15,128
+Bengaluru,Electronic City,16,276,239,1.15,128
+Bengaluru,Indiranagar,14,294,255,1.15,128
+Bengaluru,Indiranagar,4,299,260,1.15,128
+Bengaluru,Electronic City,20,290,253,1.15,128
+Bengaluru,Whitefield,16,301,262,1.15,128
+Bengaluru,Indiranagar,22,284,248,1.15,128
+Bengaluru,Electronic City,23,267,233,1.15,128
+Bengaluru,Marathahalli,9,295,256,1.15,128
+Bengaluru,HSR Layout,13,291,252,1.15,128
+Bengaluru,Electronic City,13,276,240,1.15,128
+Bengaluru,Koramangala,23,314,272,1.15,128
+Bengaluru,Marathahalli,2,303,263,1.15,128
+Bengaluru,Whitefield,20,313,272,1.15,128
+Bengaluru,MG Road,9,309,268,1.15,128
+Bengaluru,Koramangala,13,303,264,1.15,128
+Bengaluru,Airport,7,292,254,1.15,128
+Bengaluru,Whitefield,1,327,284,1.15,128
+Bengaluru,Marathahalli,3,299,261,1.15,128
+Bengaluru,Whitefield,19,276,241,1.15,128
+Bengaluru,Electronic City,22,302,263,1.15,128
+Bengaluru,Marathahalli,10,305,266,1.15,128
+Bengaluru,Indiranagar,20,293,258,1.14,158
+Bengaluru,MG Road,4,276,243,1.14,158
+Bengaluru,HSR Layout,3,326,285,1.14,158
+Bengaluru,Indiranagar,5,293,256,1.14,158
+Bengaluru,Whitefield,5,278,243,1.14,158
+Bengaluru,HSR Layout,4,319,279,1.14,158
+Bengaluru,Indiranagar,1,268,236,1.14,158
+Bengaluru,Indiranagar,7,316,277,1.14,158
+Bengaluru,Whitefield,10,294,259,1.14,158
+Bengaluru,Airport,11,308,270,1.14,158
+Bengaluru,Marathahalli,1,316,276,1.14,158
+Bengaluru,MG Road,16,297,261,1.14,158
+Bengaluru,MG Road,21,278,244,1.14,158
+Bengaluru,HSR Layout,21,325,285,1.14,158
+Bengaluru,HSR Layout,9,277,242,1.14,158
+Bengaluru,Jayanagar,6,290,254,1.14,158
+Bengaluru,Marathahalli,19,311,273,1.14,158
+Bengaluru,HSR Layout,2,300,263,1.14,158
+Bengaluru,MG Road,15,269,235,1.14,158
+Bengaluru,Koramangala,10,311,274,1.14,158
+Bengaluru,Electronic City,19,303,265,1.14,158
+Bengaluru,Jayanagar,21,286,251,1.14,158
+Bengaluru,HSR Layout,20,281,247,1.14,158
+Bengaluru,Jayanagar,4,287,251,1.14,158
+Bengaluru,Airport,18,299,262,1.14,158
+Bengaluru,Koramangala,19,292,259,1.13,183
+Bengaluru,Marathahalli,21,288,254,1.13,183
+Bengaluru,Marathahalli,16,322,284,1.13,183
+Bengaluru,Koramangala,6,293,259,1.13,183
+Bengaluru,Koramangala,3,269,238,1.13,183
+Bengaluru,HSR Layout,12,298,264,1.13,183
+Bengaluru,Koramangala,22,295,260,1.13,183
+Bengaluru,HSR Layout,0,286,252,1.13,183
+Bengaluru,Whitefield,11,293,259,1.13,183
+Bengaluru,Airport,0,288,255,1.13,183
+Bengaluru,Whitefield,15,298,264,1.13,183
+Bengaluru,Indiranagar,6,337,298,1.13,183
+Bengaluru,Jayanagar,22,313,279,1.12,195
+Bengaluru,Marathahalli,4,308,274,1.12,195
+Bengaluru,Jayanagar,5,273,244,1.12,195
+Bengaluru,Electronic City,5,282,251,1.12,195
+Bengaluru,Indiranagar,11,304,271,1.12,195
+Bengaluru,Airport,10,265,237,1.12,195
+Bengaluru,Whitefield,9,296,265,1.12,195
+Bengaluru,MG Road,0,310,276,1.12,195
+Bengaluru,Electronic City,3,291,260,1.12,195
+Bengaluru,Indiranagar,0,307,273,1.12,195
+Bengaluru,Jayanagar,19,275,248,1.11,205
+Bengaluru,Airport,17,275,248,1.11,205
+Bengaluru,Koramangala,17,280,253,1.11,205
+Bengaluru,Jayanagar,2,262,237,1.11,205
+Bengaluru,Jayanagar,18,291,263,1.11,205
+Bengaluru,Koramangala,7,274,248,1.1,210
+Bengaluru,Indiranagar,21,277,251,1.1,210
+Bengaluru,Electronic City,2,306,278,1.1,210
+Bengaluru,Electronic City,1,272,248,1.1,210
+Bengaluru,Whitefield,23,266,244,1.09,214
+Bengaluru,MG Road,3,294,269,1.09,214
+Bengaluru,MG Road,10,294,272,1.08,216
+Hyderabad,Gachibowli,9,321,261,1.23,1
+Hyderabad,Gachibowli,20,339,278,1.22,2
+Hyderabad,Airport,23,304,249,1.22,2
+Hyderabad,Hitech City,6,343,284,1.21,4
+Hyderabad,Hitech City,5,291,243,1.2,5
+Hyderabad,Hitech City,12,305,255,1.2,5
+Hyderabad,Airport,1,312,260,1.2,5
+Hyderabad,Gachibowli,15,322,270,1.19,8
+Hyderabad,Airport,2,293,246,1.19,8
+Hyderabad,Hitech City,7,304,256,1.19,8
+Hyderabad,Hitech City,1,308,260,1.18,11
+Hyderabad,Gachibowli,14,335,285,1.18,11
+Hyderabad,Airport,9,323,274,1.18,11
+Hyderabad,Gachibowli,11,324,275,1.18,11
+Hyderabad,Gachibowli,22,297,251,1.18,11
+Hyderabad,Airport,11,295,251,1.18,11
+Hyderabad,Hitech City,15,282,239,1.18,11
+Hyderabad,Airport,5,341,288,1.18,11
+Hyderabad,Gachibowli,0,299,255,1.17,19
+Hyderabad,Gachibowli,5,295,253,1.17,19
+Hyderabad,Gachibowli,8,299,256,1.17,19
+Hyderabad,Hitech City,23,293,251,1.17,19
+Hyderabad,Airport,18,318,271,1.17,19
+Hyderabad,Airport,16,335,286,1.17,19
+Hyderabad,Hitech City,11,315,269,1.17,19
+Hyderabad,Hitech City,18,303,258,1.17,19
+Hyderabad,Airport,8,310,265,1.17,19
+Hyderabad,Hitech City,3,311,266,1.17,19
+Hyderabad,Gachibowli,17,290,250,1.16,29
+Hyderabad,Airport,21,295,254,1.16,29
+Hyderabad,Hitech City,14,318,274,1.16,29
+Hyderabad,Airport,14,309,267,1.16,29
+Hyderabad,Gachibowli,1,292,251,1.16,29
+Hyderabad,Gachibowli,10,279,240,1.16,29
+Hyderabad,Airport,13,298,258,1.16,29
+Hyderabad,Hitech City,4,290,249,1.16,29
+Hyderabad,Gachibowli,7,304,261,1.16,29
+Hyderabad,Gachibowli,4,264,227,1.16,29
+Hyderabad,Hitech City,19,288,248,1.16,29
+Hyderabad,Gachibowli,3,315,272,1.16,29
+Hyderabad,Gachibowli,13,278,242,1.15,41
+Hyderabad,Gachibowli,21,269,234,1.15,41
+Hyderabad,Hitech City,0,281,244,1.15,41
+Hyderabad,Hitech City,17,320,279,1.15,41
+Hyderabad,Gachibowli,2,289,251,1.15,41
+Hyderabad,Airport,7,296,258,1.15,41
+Hyderabad,Airport,10,291,252,1.15,41
+Hyderabad,Hitech City,10,329,285,1.15,41
+Hyderabad,Airport,15,261,226,1.15,41
+Hyderabad,Airport,6,309,271,1.14,50
+Hyderabad,Airport,4,277,242,1.14,50
+Hyderabad,Hitech City,13,292,256,1.14,50
+Hyderabad,Hitech City,9,275,242,1.14,50
+Hyderabad,Hitech City,21,311,272,1.14,50
+Hyderabad,Gachibowli,19,276,243,1.14,50
+Hyderabad,Hitech City,22,283,249,1.14,50
+Hyderabad,Hitech City,20,299,263,1.14,50
+Hyderabad,Gachibowli,16,288,255,1.13,58
+Hyderabad,Airport,22,293,260,1.13,58
+Hyderabad,Airport,20,301,267,1.13,58
+Hyderabad,Gachibowli,6,294,260,1.13,58
+Hyderabad,Hitech City,8,297,263,1.13,58
+Hyderabad,Airport,0,288,255,1.13,58
+Hyderabad,Gachibowli,23,304,268,1.13,58
+Hyderabad,Gachibowli,18,283,251,1.13,58
+Hyderabad,Airport,12,293,260,1.13,58
+Hyderabad,Airport,17,305,270,1.13,58
+Hyderabad,Hitech City,16,309,277,1.12,68
+Hyderabad,Gachibowli,12,271,245,1.11,69
+Hyderabad,Hitech City,2,294,265,1.11,69
+Hyderabad,Airport,3,296,268,1.1,71
+Hyderabad,Airport,19,281,261,1.08,72
+Mumbai,Airport,0,218,184,1.18,1
+Mumbai,Andheri,21,206,175,1.18,1
+Mumbai,Bandra,19,274,235,1.17,3
+Mumbai,Bandra,21,244,208,1.17,3
+Mumbai,Andheri,8,233,201,1.16,5
+Mumbai,Andheri,17,235,202,1.16,5
+Mumbai,Powai,11,230,198,1.16,5
+Mumbai,Andheri,6,231,199,1.16,5
+Mumbai,Andheri,20,235,203,1.16,5
+Mumbai,Andheri,14,243,212,1.15,10
+Mumbai,Bandra,14,242,210,1.15,10
+Mumbai,Bandra,2,219,191,1.15,10
+Mumbai,Powai,8,203,177,1.15,10
+Mumbai,Bandra,17,240,208,1.15,10
+Mumbai,Powai,1,249,217,1.15,10
+Mumbai,Airport,1,215,187,1.15,10
+Mumbai,Bandra,12,232,203,1.14,17
+Mumbai,Powai,0,219,192,1.14,17
+Mumbai,Airport,14,232,203,1.14,17
+Mumbai,Airport,7,232,203,1.14,17
+Mumbai,Bandra,1,219,192,1.14,17
+Mumbai,Bandra,16,248,217,1.14,17
+Mumbai,Airport,23,230,201,1.14,17
+Mumbai,Airport,17,260,229,1.14,17
+Mumbai,Powai,7,239,212,1.13,25
+Mumbai,Powai,18,223,197,1.13,25
+Mumbai,Bandra,22,222,196,1.13,25
+Mumbai,Airport,20,222,196,1.13,25
+Mumbai,Powai,10,212,188,1.13,25
+Mumbai,Airport,16,203,179,1.13,25
+Mumbai,Powai,3,227,201,1.13,25
+Mumbai,Andheri,9,229,203,1.13,25
+Mumbai,Bandra,23,220,195,1.13,25
+Mumbai,Powai,19,203,180,1.13,25
+Mumbai,Bandra,11,231,205,1.13,25
+Mumbai,Airport,8,214,191,1.12,36
+Mumbai,Airport,3,241,216,1.12,36
+Mumbai,Andheri,2,207,185,1.12,36
+Mumbai,Andheri,18,228,203,1.12,36
+Mumbai,Powai,21,233,208,1.12,36
+Mumbai,Powai,2,210,187,1.12,36
+Mumbai,Airport,19,237,211,1.12,36
+Mumbai,Andheri,1,249,222,1.12,36
+Mumbai,Andheri,15,213,191,1.12,36
+Mumbai,Andheri,13,213,191,1.12,36
+Mumbai,Andheri,5,252,226,1.12,36
+Mumbai,Airport,12,199,179,1.11,47
+Mumbai,Powai,16,240,217,1.11,47
+Mumbai,Powai,23,228,205,1.11,47
+Mumbai,Andheri,3,235,211,1.11,47
+Mumbai,Airport,22,233,210,1.11,47
+Mumbai,Powai,20,188,169,1.11,47
+Mumbai,Bandra,15,222,200,1.11,47
+Mumbai,Airport,5,247,222,1.11,47
+Mumbai,Airport,2,223,201,1.11,47
+Mumbai,Andheri,22,245,220,1.11,47
+Mumbai,Powai,17,228,206,1.11,47
+Mumbai,Powai,13,241,218,1.11,47
+Mumbai,Bandra,10,221,199,1.11,47
+Mumbai,Airport,6,214,192,1.11,47
+Mumbai,Airport,9,237,214,1.11,47
+Mumbai,Andheri,23,204,184,1.11,47
+Mumbai,Bandra,8,228,205,1.11,47
+Mumbai,Bandra,13,218,196,1.11,47
+Mumbai,Airport,21,240,217,1.11,47
+Mumbai,Bandra,3,219,197,1.11,47
+Mumbai,Andheri,19,230,208,1.11,47
+Mumbai,Andheri,4,233,209,1.11,47
+Mumbai,Airport,4,226,206,1.1,69
+Mumbai,Andheri,10,180,164,1.1,69
+Mumbai,Bandra,4,220,200,1.1,69
+Mumbai,Andheri,7,201,183,1.1,69
+Mumbai,Andheri,12,241,219,1.1,69
+Mumbai,Bandra,0,238,217,1.1,69
+Mumbai,Andheri,0,204,186,1.1,69
+Mumbai,Bandra,20,234,212,1.1,69
+Mumbai,Powai,14,208,190,1.09,77
+Mumbai,Bandra,9,223,205,1.09,77
+Mumbai,Bandra,5,216,199,1.09,77
+Mumbai,Powai,9,204,187,1.09,77
+Mumbai,Bandra,18,218,200,1.09,77
+Mumbai,Airport,18,221,202,1.09,77
+Mumbai,Powai,12,212,195,1.09,77
+Mumbai,Powai,4,220,201,1.09,77
+Mumbai,Bandra,6,212,196,1.08,85
+Mumbai,Airport,11,204,189,1.08,85
+Mumbai,Airport,15,226,209,1.08,85
+Mumbai,Powai,22,207,191,1.08,85
+Mumbai,Powai,6,214,198,1.08,85
+Mumbai,Andheri,11,219,203,1.08,85
+Mumbai,Andheri,16,222,206,1.08,85
+Mumbai,Powai,15,212,197,1.08,85
+Mumbai,Powai,5,217,202,1.07,93
+Mumbai,Airport,10,223,210,1.06,94
+Mumbai,Airport,13,202,190,1.06,94
+Mumbai,Bandra,7,233,219,1.06,94

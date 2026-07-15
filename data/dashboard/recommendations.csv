@@ -1,0 +1,6 @@
+rule_name,scope_type,scope_value,metric_value,recommendation,severity,batch_id
+HIGH_REVENUE_ZONE,ZONE,Bengaluru / HSR Layout,4835616.01,Top revenue-generating zone -- consider driver incentives to sustain supply here.,INFO,scheduled__2026-07-13T00:00:00+00:00
+HIGH_REVENUE_ZONE,ZONE,Hyderabad / Hitech City,4830967.76,Top revenue-generating zone -- consider driver incentives to sustain supply here.,INFO,scheduled__2026-07-13T00:00:00+00:00
+HIGH_REVENUE_ZONE,ZONE,Hyderabad / Airport,4828952.12,Top revenue-generating zone -- consider driver incentives to sustain supply here.,INFO,scheduled__2026-07-13T00:00:00+00:00
+HIGH_REVENUE_ZONE,ZONE,Bengaluru / Whitefield,4797324.66,Top revenue-generating zone -- consider driver incentives to sustain supply here.,INFO,scheduled__2026-07-13T00:00:00+00:00
+HIGH_REVENUE_ZONE,ZONE,Bengaluru / Marathahalli,4792670.64,Top revenue-generating zone -- consider driver incentives to sustain supply here.,INFO,scheduled__2026-07-13T00:00:00+00:00
